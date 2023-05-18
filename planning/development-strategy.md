@@ -1,55 +1,106 @@
 # Project Name
 
-<!-- describe your project -->
+> A portfolio site to shows my best work and professional skills in web
+> development.
 
 ---
+
+## User Story Dependencies
+
+[Story Dependency Diagram](user-personas.md)
+
+## Wireframe
+
+[Design](../planning/design.md)
 
 ## Setup
 
-<!-- what code do you need just to open the project? this might include:
-  - boilerplate code (https://brandlitic.com/what-is-boilerplate-code/)
-  - loading program data
-  - rendering the initial user interface
--->
+- create a new repo form the template `template-html-css`
+- turn on GitHub pages
+- protect `main` branch
 
----
+## Navigation Bar
 
-<!-- copy this section once for each must-have user story -->
+- As a user I want to see navigation
 
-## user story
+### HTML
 
-<!-- each issue created from this section will have the `for: user story` label -->
+- add `nav`
+- add `ul`
+- add `li`
+- add `a`
 
-> "as a ... i can ... so that ..."
+### CSS
 
-<!-- write any extra notes or description -->
+- add class `navbar`
+- add class `link-group`
+- add class `link a`
 
-<!-- describe the tasks to build this user story
-  these will have the `type: logic` label, for example
-  not all projects will have all types of tasks
-  and these are not the only possible types, just some suggestions
--->
+## Home Page
 
-### Logic: user story
+- [ ] As a user I want to see...
+- welcome text
+- see photo of the portfolio owner
 
-- a _logic_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+### HTML
 
-### Interface: user story
+- add `section`
+- add `h1`
+- add `img`
 
-- an _interface_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+### CSS
 
-### Interaction: user story
+- add class `home-section ` add child classes
 
-- an _interaction_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+## Projects Page
 
-### Documentation: user story
+- As a user I want to see projects completed by the developer on the
 
-- a _documentation_ task -> this will become one issue
-  - [ ] some checkboxes for this task
-  - [ ] these will be copy-pasted into the issue
+### HTML
+
+- add `section`
+- add `h1`
+- add `div`
+- add `p`
+- add `img`
+- add `button`
+
+### CSS
+
+- add class `project-section` add child classes
+- add class `project-heading`
+- add class `project-btn-grp`
+
+## About Page
+
+- As a user I want to see more detailed information about the developer on the
+  page about
+
+### HTML
+
+- add `section`
+- add `div`
+- add `img`
+- add `button`
+
+### CSS
+
+- add class `about-section` add child classes
+- add class `about-img-container`
+- add class `.download-cv-btn ` and `.download-cv-btn:hover`
+
+## Contact Page
+
+- As a user I want to see developer contact form
+
+### HTML
+
+- add `section`
+- add `form`
+- add `input`
+
+### CSS
+
+- add class `contact-section` add child classes
+- add class`contact-form input`
+- add class`.contact-form textarea`

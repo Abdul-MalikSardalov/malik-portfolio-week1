@@ -1,17 +1,6 @@
 # Design
 
-## Project's design overview
-
-> Give an overview of your project's design
-
-<!-- give an overview of your project's design -->
-<!-- describe the reasoning behind your group's design and wireframe -->
-<!-- include other centralized decisions like fonts, palates, ... -->
-
----
-
-## Wireframe(s)
-
-> Include your wireframe(s) and link to wireframe
-
-<!-- provide a link to your wireframe documenting on Figma, or wherever it is -->
+![Home-page](../public/Home_page.png)
+![Projects-page](../public/Projects_page.png)
+![About-page](../public/About_page.png)
+![Contact_page](../public/Contact_page.png)
