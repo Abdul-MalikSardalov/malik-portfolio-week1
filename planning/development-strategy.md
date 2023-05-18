@@ -50,7 +50,7 @@
 
 ### CSS
 
-- add class `home-section ` add child classes
+- add class `home-section` add child classes
 
 ## Projects Page
 
@@ -87,7 +87,7 @@
 
 - add class `about-section` add child classes
 - add class `about-img-container`
-- add class `.download-cv-btn ` and `.download-cv-btn:hover`
+- add class `.download-cv-btn` and `.download-cv-btn:hover`
 
 ## Contact Page
 
