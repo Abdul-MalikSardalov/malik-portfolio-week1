@@ -1,10 +1,11 @@
-# Name of project
+# Portfolio
 
-> A longer description
+> A portfolio site to shows my best work and professional skills in web
+> development.
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
+- [Portfolio](#portfolio)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
